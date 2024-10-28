@@ -1,0 +1,18 @@
+{
+  "name": "phishing_tool",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.15",
+    "socks-proxy-agent": "^8.0.4",
+    "yargs": "^17.7.2"
+  }
+}
